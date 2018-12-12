@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Gravitas+One|Playfair+Display');
+
+body {
+  background-color: white;
+  color: black;
+  text-family: "Playfair", sans-sarif
+}
+
+h1 {
+  color: #3d5c5c;
+  text-align: center;
+  text-family: "Gravitas", sarif
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+h2{
+  color:#75a3a3;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+img{
+  display: block;
+}
